@@ -1,0 +1,10 @@
+{
+  "name": "School Management System",
+  "short_name": "School CMS",
+  "description": "Secure school management portal.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#059669"
+}
